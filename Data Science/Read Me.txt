@@ -1,0 +1,1 @@
+The data science repository contains examples of projects where data extraction, selection, transformation, visualization skills are observed, as well as modeling activities that facilitate business decision-making.
